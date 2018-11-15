@@ -19,3 +19,48 @@ Je pense que c'est une formidable opportunité pour se rendre un minimum compte 
 
 
 Pour l'anniversaire de Thomas, nous avons été invité 
+
+
+
+
+
+
+___________________________________________________________
+Plan:
+
+- Wwoofing
+- Arrivée à la ferme
+    Train et rencontre à la gare
+    Repas, personnes présentes
+    Pickup et premier travail
+- Travailler la terre
+    Ce que l'on nous demande de faire
+    Business de la ferme
+    Ressenti personnel
+- Vie à la campagne japonaise
+    Cuisine
+    Anniversaire Thomas
+    Sortie à Himeji
+    Feux d'artifice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
