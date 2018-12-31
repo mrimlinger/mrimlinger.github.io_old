@@ -26,7 +26,7 @@ C'est vraiment le meilleur moment pour le visiter car les groupes de touristes d
 
 <img src="{% asset_path DSC_1922.jpg %}" width=400"" />
 
-Tout au bout du chemin se tient un temple majestueux. On s'arrête quelques minutes pour apprécier le calme de la forêt alentours, en tentant de s'imaginer la vie de moine dans un tel lieu. Il nuit lorsque nous retournons sur nos pas, et l'ambiance en devient mystérieuse et lugubre. On ressort du cimetière juste au moment où les premiers groupes de visiteurs nocturnes arrivent. Parfait timing.
+Tout au bout du chemin se tient un temple majestueux. On s'arrête quelques minutes pour apprécier le calme de la forêt alentours, en tentant de s'imaginer la vie de moine dans un tel lieu. Il fait nuit lorsque nous retournons sur nos pas, et l'ambiance en devient mystérieuse et lugubre. On ressort du cimetière juste au moment où les premiers groupes de visiteurs nocturnes arrivent. Parfait timing.
 
 <img src="{% asset_path DSC_1923.jpg %}" width=400"" />
 
