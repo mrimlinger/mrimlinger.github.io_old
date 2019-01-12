@@ -21,6 +21,8 @@ Pour trouver son chemin dans les gares et stations de métros, tous les noms de 
 
 Sans toutefois en faire des tonnes, il est important de respecter les règles et codes de [politesse]( https://fr.wikipedia.org/wiki/Politesse_dans_la_culture_japonaise) en vigueur. En particulier dans les transports : ne pas manger, parler discrètement, ne pas téléphoner, respecter les files d’attentes, etc. Ce n’est pas grand-chose mais cela permet de se faire bien voir en tant que touriste. Au vu de la différence et de la richesse culturelle, il est préférable de se munir d’un guide de voyage (Routard, Lonely Planet, etc.), ne serait-ce pour en apprendre un peu plus sur les coutumes et la vie dans le pays.
 
+### Climat
+Chaud chaud chaud et humide en été !
 
 ### Se déplacer
 Pour les grands trajets entre les villes, nous avons utilisé un Japan Rail Pass (JRP) d’une durée de 21 jours (existe aussi pour 7 et 14 jours). Ce pass permet d’utiliser gratuitement toutes les lignes de la compagnie Japan Rail (JR) à l’exception des lignes de métro et de certains Shinkansen « express ». Le prix est d’environ 450 euros par personne. Compte tenu du prix élevé des transports au Japon en général, il suffit de quelques trajets pour rentabiliser le pass qui constitue alors une option très intéressante. Vérifier toutefois que les trajets envisagés soient couverts par le réseau JR.

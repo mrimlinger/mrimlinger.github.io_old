@@ -6,9 +6,9 @@ date: 2018-10-24 19:12:08
 ## About me 
 
 I am a micro-engineering student at EPFL, currently on exchange in Hong Kong at HKUST.
-Scholar interests: computer science, embedded systems, finance.
-Personnal interests: travelling, reading, drawing, photography.
-You can find more detailed informations on my [resume](https://mrimlinger.ch/About/resume.pdf).
+Scholar interests: optics, telecommunications, micro-nanosystems, quantum physics
+Personnal interests: travelling, reading, writing, photography.
+You can find more detailed informations on my [resume](https://mrimlinger.ch/About/index/CV_rimlinger.pdf).
 
 ## About this blog
 
