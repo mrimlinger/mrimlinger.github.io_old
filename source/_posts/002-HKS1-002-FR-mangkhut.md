@@ -1,5 +1,5 @@
 ---
-title: Hong Kong S1 (FR) - Le typhon Mangkhut
+title: Hong Kong S1 (FR) - Typhon Mangkhut
 date: 2019-01-11 13:23:25
 tags: [Travel, HK]
 ---

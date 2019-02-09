@@ -1,5 +1,5 @@
 ---
-title: Hong Kong S1 (FR) - L'arrivée
+title: Hong Kong S1 (FR) - Arrivée
 date: 2019-01-11 12:58:06
 tags: [Travel, HK]
 ---
