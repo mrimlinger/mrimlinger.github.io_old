@@ -34,7 +34,7 @@ Dans les jours qui suivent, je tâche de découvrir Singapour. Mes explorations 
 
 - Culinairement je trouve cette ville formidable avec pleins de cuisines différentes (indienne, chinoise, malaise, vietnamienne, thaï, etc), ce qui souligne son caractère multiculturel. La qualité et l’hygiène sont au rendez-vous avec les services d’hygiène qui notent directement chaque boutique, et ces dernières qui affichent fièrement le certificat en devanture. A de multiples endroits les petits restaurants se concentrent dans de grandes halles couvertes avec des tables où tout le monde vient prendre son déjeuner. On trouve également une grande variété de jus de fruits frais vendus pour peu cher, ce qui est appréciable au vu du climat.
 
-<img src="{% asset_path 2863.jpg %}" />
+<img src="{% asset_path DSC_2863.jpg %}" />
 
 ## En somme
 
